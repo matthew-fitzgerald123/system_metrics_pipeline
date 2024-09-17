@@ -1,4 +1,5 @@
 # System Metrics Pipeline Project
+pipeline establishment project
 
 The pipeline established takes system metrics data available on my system and sends them to a Kafka topic established. The consumer script takes the data sent (messages) and then displays them in a GUI interface using TKinter.
 
