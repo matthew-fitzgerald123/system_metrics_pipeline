@@ -3,7 +3,7 @@ pipeline establishment project
 
 The pipeline established takes system metrics data available on my system and sends them to a Kafka topic established. The consumer script takes the data sent (messages) and then displays them in a GUI interface using TKinter.
 
-**Steps:**
+**Steps**
 1. Start Zookeeper
 "zookeeper-server-start.sh config/zookeeper.properties"
 2. Start Kafka
