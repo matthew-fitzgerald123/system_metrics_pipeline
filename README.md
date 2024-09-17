@@ -15,5 +15,5 @@ The pipeline established takes system metrics data available on my system and se
 5. Run visualize_metrics.py
 "python3 visualize_metrics.py"
 
-Libraries: TKinter, Threading, CPUinfo, Kafka, Zookeeper
+Libraries Used: TKinter, Threading, CPUinfo, Kafka, Zookeeper
 
